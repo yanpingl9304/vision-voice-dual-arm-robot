@@ -1,0 +1,11 @@
+# Goal
+string drink_type   # "water" | "tea" | "coffee"
+---
+# Result
+bool success
+string message
+---
+# Feedback
+string state
+float32 progress
+string description

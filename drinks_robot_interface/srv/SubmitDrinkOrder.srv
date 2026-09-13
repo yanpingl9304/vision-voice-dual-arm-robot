@@ -1,0 +1,4 @@
+string drink_type   # "water" | "tea" | "coffee"
+---
+bool success
+string message

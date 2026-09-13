@@ -1,0 +1,13 @@
+drink_robot:
+  ros__parameters:
+    supported_drinks: [water, coffee, tea]
+
+    # Mapping from container ArUco ID to drink type.
+    container_id_to_drink:
+      "1": water
+      "2": coffee
+      "3": tea
+
+    aruco_marker_length: 0.03
+    hand_shake_pin_left: 0
+    hand_shake_pin_right: 0

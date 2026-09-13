@@ -1,0 +1,15 @@
+<library path="drink_robot">
+  <class name="ChatInterfacePlugin" type="drink_robot.hmi.rqt_chat_plugin.ChatInterfacePlugin" base_class_type="rqt_gui_py::Plugin">
+    <description>
+      A GUI plugin for Drink Robot Chat Interface.
+    </description>
+    <qtgui>
+      <group>
+        <label>Robot Tools</label>
+      </group>
+      <label>Drink Robot Chat Plugin</label>
+      <icon type="theme">system-run</icon>
+      <statustip>Drink Robot Central Controller with Gemini</statustip>
+    </qtgui>
+  </class>
+</library>

@@ -1,0 +1,14 @@
+name: cup_aruco
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - opencv
+  - pillow
+
+  - pip:
+      - ultralytics
