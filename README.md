@@ -5,6 +5,14 @@
 
 ---
 
+## 📺 Demonstration Video
+
+[![Watch the Demo Video](https://img.youtube.com/vi/zITnGl25jas/maxresdefault.jpg)](https://youtu.be/zITnGl25jas)
+
+> 🔗 **Video Link:** [Watch the Full Demonstration on YouTube](https://youtu.be/zITnGl25jas)
+
+---
+
 ## 📌 Project Overview
 
 **Unmanned Beverage Station** is an intelligent robotic bartender system powered by **ROS 2**. It integrates real-time conversational AI, depth-sensing computer vision, and coordinated dual robotic arms to deliver a hands-free, interactive beverage ordering and preparation experience.
